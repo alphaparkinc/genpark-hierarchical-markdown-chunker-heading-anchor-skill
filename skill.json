@@ -1,0 +1,12 @@
+{
+  "name": "genpark-hierarchical-markdown-chunker-heading-anchor-skill",
+  "version": "1.0.0",
+  "description": "Hierarchical document section tree chunker preserving H1/H2/H3 semantic breadcrumbs and parent context for RAG.",
+  "category": "Document Intelligence & Vision-Table Parsing",
+  "runtime": "python3",
+  "entrypoint": "client.py",
+  "author": "GenPark AI",
+  "repository": "https://github.com/alphaparkinc/genpark-hierarchical-markdown-chunker-heading-anchor-skill",
+  "verified": true,
+  "stars": 8
+}
